@@ -1,1 +1,2 @@
 # Operation-Metric-Analysis
+This project focuses on analyzing the data which is provided by company. My task is to derive insights and answer the questions asked by different departments. So that these insights are then used by ops team, support team, marketing team, etc to predict the overall growth or decline of a company's fortune.It means better automation, better understanding between cross-functional teams, and more effective workflows.
